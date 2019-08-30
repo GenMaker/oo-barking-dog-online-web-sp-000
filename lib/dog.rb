@@ -8,11 +8,6 @@ class Dog
   end
 
 
-  def bark= (speak)
-    @dog_talk = speak
-  end
-
-  def name (speak)
-    puts @dog_talk
-  end
+  def bark
+  puts "woof!"
 end
