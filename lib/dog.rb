@@ -13,6 +13,6 @@ class Dog
   end
 
   def name (speak)
-    @dog_talk
+    puts @dog_talk
   end
 end
